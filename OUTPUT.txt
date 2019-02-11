@@ -1,0 +1,327 @@
+Enter Vigenere Cipher: tuibgubiijegrzuqxrfmimhnajvyhpuuwmpngknywgryvyh
+Enter Max Sequence Length: 20
+                                                                      I.C.
+original:      tuibgubiijegrzuqxrfmimhnajvyhpuuwmpngknywgryvyh        0.041628  
+if key were length 2:
+sequence   1: t i g b i e r u x f i h a v h u w p g n w r v h         0.039855  
+sequence   2:  u b u i j g z q r m m n j y p u m n k y g y y          0.059289  
+                                                             average: 0.049572  
+
+if key were length 3:
+sequence   1: t  b  b  j  r  q  f  m  a  y  u  m  g  y  r  y          0.050000  
+sequence   2:  u  g  i  e  z  x  m  h  j  h  u  p  k  w  y  h         0.033333  
+sequence   3:   i  u  i  g  u  r  i  n  v  p  w  n  n  g  v           0.085714  
+                                                             average: 0.056349  
+
+if key were length 4:
+sequence   1: t   g   i   r   x   i   a   h   w   g   w   v           0.045455  
+sequence   2:  u   u   j   z   r   m   j   p   m   k   g   y          0.045455  
+sequence   3:   i   b   e   u   f   h   v   u   p   n   r   h         0.030303  
+sequence   4:    b   i   g   q   m   n   y   u   n   y   y            0.072727  
+                                                             average: 0.048485  
+
+if key were length 5:
+sequence   1: t    u    e    q    i    j    u    n    w    y          0.022222  
+sequence   2:  u    b    g    x    m    v    u    g    g    h         0.088889  
+sequence   3:   i    i    r    r    h    y    w    k    r             0.111111  
+sequence   4:    b    i    z    f    n    h    m    n    y            0.027778  
+sequence   5:     g    j    u    m    a    p    p    y    v           0.027778  
+                                                             average: 0.055556  
+
+if key were length 6:
+sequence   1: t     b     r     f     a     u     g     r             0.035714  
+sequence   2:  u     i     z     m     j     u     k     y            0.035714  
+sequence   3:   i     i     u     i     v     w     n     v           0.142857  
+sequence   4:    b     j     q     m     y     m     y     y          0.142857  
+sequence   5:     g     e     x     h     h     p     w     h         0.107143  
+sequence   6:      u     g     r     n     p     n     g              0.095238  
+                                                             average: 0.093254  
+
+if key were length 7:
+sequence   1: t      i      u      m      h      n      r             0.000000  
+sequence   2:  u      i      q      h      p      g      y            0.000000  
+sequence   3:   i      j      x      n      u      k      v           0.000000  
+sequence   4:    b      e      r      a      u      n      y          0.000000  
+sequence   5:     g      g      f      j      w      y      h         0.047619  
+sequence   6:      u      r      m      v      m      w               0.066667  
+sequence   7:       b      z      i      y      p      g              0.000000  
+                                                             average: 0.016327  
+
+if key were length 8:
+sequence   1: t       i       x       a       w       w               0.066667  
+sequence   2:  u       j       r       j       m       g              0.066667  
+sequence   3:   i       e       f       v       p       r             0.000000  
+sequence   4:    b       g       m       y       n       y            0.066667  
+sequence   5:     g       r       i       h       g       v           0.066667  
+sequence   6:      u       z       m       p       k       y          0.000000  
+sequence   7:       b       u       h       u       n       h         0.133333  
+sequence   8:        i       q       n       u       y                0.000000  
+                                                             average: 0.050000  
+
+if key were length 9:
+sequence   1: t        j        f        y        g        y          0.066667  
+sequence   2:  u        e        m        h        k        h         0.066667  
+sequence   3:   i        g        i        p        n                 0.100000  
+sequence   4:    b        r        m        u        y                0.000000  
+sequence   5:     g        z        h        u        w               0.000000  
+sequence   6:      u        u        n        w        g              0.100000  
+sequence   7:       b        q        a        m        r             0.000000  
+sequence   8:        i        x        j        p        y            0.000000  
+sequence   9:         i        r        v        n        v           0.100000  
+                                                             average: 0.048148  
+
+if key were length 10:
+sequence   1: t         e         i         u         w               0.000000  
+sequence   2:  u         g         m         u         g              0.200000  
+sequence   3:   i         r         h         w         r             0.100000  
+sequence   4:    b         z         n         m         y            0.000000  
+sequence   5:     g         u         a         p         v           0.000000  
+sequence   6:      u         q         j         n         y          0.000000  
+sequence   7:       b         x         v         g         h         0.000000  
+sequence   8:        i         r         y         k                  0.000000  
+sequence   9:         i         f         h         n                 0.000000  
+sequence  10:          j         m         p         y                0.000000  
+                                                             average: 0.030000  
+
+if key were length 11:
+sequence   1: t          g          h          m          v           0.000000  
+sequence   2:  u          r          n          p          y          0.000000  
+sequence   3:   i          z          a          n          h         0.000000  
+sequence   4:    b          u          j          g                   0.000000  
+sequence   5:     g          q          v          k                  0.000000  
+sequence   6:      u          x          y          n                 0.000000  
+sequence   7:       b          r          h          y                0.000000  
+sequence   8:        i          f          p          w               0.000000  
+sequence   9:         i          m          u          g              0.000000  
+sequence  10:          j          i          u          r             0.000000  
+sequence  11:           e          m          w          y            0.000000  
+                                                             average: 0.000000  
+
+if key were length 12:
+sequence   1: t           r           a           g                   0.000000  
+sequence   2:  u           z           j           k                  0.000000  
+sequence   3:   i           u           v           n                 0.000000  
+sequence   4:    b           q           y           y                0.166667  
+sequence   5:     g           x           h           w               0.000000  
+sequence   6:      u           r           p           g              0.000000  
+sequence   7:       b           f           u           r             0.000000  
+sequence   8:        i           m           u           y            0.000000  
+sequence   9:         i           i           w           v           0.166667  
+sequence  10:          j           m           m           y          0.166667  
+sequence  11:           e           h           p           h         0.166667  
+sequence  12:            g           n           n                    0.333333  
+                                                             average: 0.083333  
+
+if key were length 13:
+sequence   1: t            z            v            y                0.000000  
+sequence   2:  u            u            y            w               0.166667  
+sequence   3:   i            q            h            g              0.000000  
+sequence   4:    b            x            p            r             0.000000  
+sequence   5:     g            r            u            y            0.000000  
+sequence   6:      u            f            u            v           0.166667  
+sequence   7:       b            m            w            y          0.000000  
+sequence   8:        i            i            m            h         0.166667  
+sequence   9:         i            m            p                     0.000000  
+sequence  10:          j            h            n                    0.000000  
+sequence  11:           e            n            g                   0.000000  
+sequence  12:            g            a            k                  0.000000  
+sequence  13:             r            j            n                 0.000000  
+                                                             average: 0.038462  
+
+if key were length 14:
+sequence   1: t             u             h             r             0.000000  
+sequence   2:  u             q             p             y            0.000000  
+sequence   3:   i             x             u             v           0.000000  
+sequence   4:    b             r             u             y          0.000000  
+sequence   5:     g             f             w             h         0.000000  
+sequence   6:      u             m             m                      0.333333  
+sequence   7:       b             i             p                     0.000000  
+sequence   8:        i             m             n                    0.000000  
+sequence   9:         i             h             g                   0.000000  
+sequence  10:          j             n             k                  0.000000  
+sequence  11:           e             a             n                 0.000000  
+sequence  12:            g             j             y                0.000000  
+sequence  13:             r             v             w               0.000000  
+sequence  14:              z             y             g              0.000000  
+                                                             average: 0.023810  
+
+if key were length 15:
+sequence   1: t              q              u              y          0.000000  
+sequence   2:  u              x              u              h         0.166667  
+sequence   3:   i              r              w                       0.000000  
+sequence   4:    b              f              m                      0.000000  
+sequence   5:     g              m              p                     0.000000  
+sequence   6:      u              i              n                    0.000000  
+sequence   7:       b              m              g                   0.000000  
+sequence   8:        i              h              k                  0.000000  
+sequence   9:         i              n              n                 0.333333  
+sequence  10:          j              a              y                0.000000  
+sequence  11:           e              j              w               0.000000  
+sequence  12:            g              v              g              0.333333  
+sequence  13:             r              y              r             0.333333  
+sequence  14:              z              h              y            0.000000  
+sequence  15:               u              p              v           0.000000  
+                                                             average: 0.077778  
+
+if key were length 16:
+sequence   1: t               x               w                       0.000000  
+sequence   2:  u               r               m                      0.000000  
+sequence   3:   i               f               p                     0.000000  
+sequence   4:    b               m               n                    0.000000  
+sequence   5:     g               i               g                   0.333333  
+sequence   6:      u               m               k                  0.000000  
+sequence   7:       b               h               n                 0.000000  
+sequence   8:        i               n               y                0.000000  
+sequence   9:         i               a               w               0.000000  
+sequence  10:          j               j               g              0.333333  
+sequence  11:           e               v               r             0.000000  
+sequence  12:            g               y               y            0.333333  
+sequence  13:             r               h               v           0.000000  
+sequence  14:              z               p               y          0.000000  
+sequence  15:               u               u               h         0.333333  
+sequence  16:                q               u                        0.000000  
+                                                             average: 0.083333  
+
+if key were length 17:
+sequence   1: t                r                p                     0.000000  
+sequence   2:  u                f                n                    0.000000  
+sequence   3:   i                m                g                   0.000000  
+sequence   4:    b                i                k                  0.000000  
+sequence   5:     g                m                n                 0.000000  
+sequence   6:      u                h                y                0.000000  
+sequence   7:       b                n                w               0.000000  
+sequence   8:        i                a                g              0.000000  
+sequence   9:         i                j                r             0.000000  
+sequence  10:          j                v                y            0.000000  
+sequence  11:           e                y                v           0.000000  
+sequence  12:            g                h                y          0.000000  
+sequence  13:             r                p                h         0.000000  
+sequence  14:              z                u                         0.000000  
+sequence  15:               u                u                        1.000000  
+sequence  16:                q                w                       0.000000  
+sequence  17:                 x                m                      0.000000  
+                                                             average: 0.058824  
+
+if key were length 18:
+sequence   1: t                 f                 g                   0.000000  
+sequence   2:  u                 m                 k                  0.000000  
+sequence   3:   i                 i                 n                 0.333333  
+sequence   4:    b                 m                 y                0.000000  
+sequence   5:     g                 h                 w               0.000000  
+sequence   6:      u                 n                 g              0.000000  
+sequence   7:       b                 a                 r             0.000000  
+sequence   8:        i                 j                 y            0.000000  
+sequence   9:         i                 v                 v           0.333333  
+sequence  10:          j                 y                 y          0.333333  
+sequence  11:           e                 h                 h         0.333333  
+sequence  12:            g                 p                          0.000000  
+sequence  13:             r                 u                         0.000000  
+sequence  14:              z                 u                        0.000000  
+sequence  15:               u                 w                       0.000000  
+sequence  16:                q                 m                      0.000000  
+sequence  17:                 x                 p                     0.000000  
+sequence  18:                  r                 n                    0.000000  
+                                                             average: 0.074074  
+
+if key were length 19:
+sequence   1: t                  m                  n                 0.000000  
+sequence   2:  u                  i                  y                0.000000  
+sequence   3:   i                  m                  w               0.000000  
+sequence   4:    b                  h                  g              0.000000  
+sequence   5:     g                  n                  r             0.000000  
+sequence   6:      u                  a                  y            0.000000  
+sequence   7:       b                  j                  v           0.000000  
+sequence   8:        i                  v                  y          0.000000  
+sequence   9:         i                  y                  h         0.000000  
+sequence  10:          j                  h                           0.000000  
+sequence  11:           e                  p                          0.000000  
+sequence  12:            g                  u                         0.000000  
+sequence  13:             r                  u                        0.000000  
+sequence  14:              z                  w                       0.000000  
+sequence  15:               u                  m                      0.000000  
+sequence  16:                q                  p                     0.000000  
+sequence  17:                 x                  n                    0.000000  
+sequence  18:                  r                  g                   0.000000  
+sequence  19:                   f                  k                  0.000000  
+                                                             average: 0.000000  
+
+if key were length 20:
+sequence   1: t                   i                   w               0.000000  
+sequence   2:  u                   m                   g              0.000000  
+sequence   3:   i                   h                   r             0.000000  
+sequence   4:    b                   n                   y            0.000000  
+sequence   5:     g                   a                   v           0.000000  
+sequence   6:      u                   j                   y          0.000000  
+sequence   7:       b                   v                   h         0.000000  
+sequence   8:        i                   y                            0.000000  
+sequence   9:         i                   h                           0.000000  
+sequence  10:          j                   p                          0.000000  
+sequence  11:           e                   u                         0.000000  
+sequence  12:            g                   u                        0.000000  
+sequence  13:             r                   w                       0.000000  
+sequence  14:              z                   m                      0.000000  
+sequence  15:               u                   p                     0.000000  
+sequence  16:                q                   n                    0.000000  
+sequence  17:                 x                   g                   0.000000  
+sequence  18:                  r                   k                  0.000000  
+sequence  19:                   f                   n                 0.000000  
+sequence  20:                    m                   y                0.000000  
+                                                             average: 0.000000  
+
+period          avg I.C.
+------------------------
+ 2:            0.049572
+ 3:            0.056349
+ 4:            0.048485
+ 5:            0.055556
+ 6:            0.093254
+ 7:            0.016327
+ 8:            0.050000
+ 9:            0.048148
+10:            0.030000
+11:            0.000000
+12:            0.083333
+13:            0.038462
+14:            0.023810
+15:            0.077778
+16:            0.083333
+17:            0.058824
+18:            0.074074
+19:            0.000000
+20:            0.000000
+
+Most probable key length: 6
+ I.C. = 0.09325396825396826
+ABCAAA score: -228.894447546712
+ABEAAA score: -228.73479469116165
+ABIAAA score: -217.66938900863073
+ABUAAA score: -214.7340649646344
+ADUAAA score: -213.04168929521873
+AGIAAA score: -212.4095534802683
+AGRAAA score: -211.54660197576462
+AGUAAA score: -197.52406224307558
+NFUAAA score: -196.8848080137484
+NGIAAA score: -194.04741755786318
+NGUAAA score: -187.38021481862359
+
+Current Parent: NGUAAA
+
+NGUABC score: -296.0784036531147
+NGUABN score: -281.74364796047695
+NGUACN score: -267.78425270054186
+NGUADN score: -257.0933440133556
+NGUAEN score: -252.61685695794066
+NGUCWN score: -252.54814747384918
+NGUEON score: -246.54991050935834
+NGUEPN score: -243.17601642065114
+NGUEWN score: -237.39300789177696
+NGUKEN score: -231.31177075679946
+NGUQEN score: -230.0362775307211
+NGUUEN score: -228.02510872709865
+NGUUWN score: -226.0056035503954
+NGUYEN score: -200.07557159091195
+
+Current Parent: NGUYEN
+
+
+Final Key: NGUYEN
